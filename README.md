@@ -1,5 +1,5 @@
 # Welcome to my Github page! 
-### Hello! My name is Dong Soo Ryu.
+### Hello! My name is Dongsoo.
 
 
 ## Below is the information on...
