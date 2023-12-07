@@ -11,6 +11,6 @@
 https://dev-n-life.tistory.com/
 
 ### Others
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=red481&show_icons=true&theme=radical)](https://github.com/red481/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=red481&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide=stars,issues,contribs)](https://github.com/red481/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=otu123)](https://solved.ac/otu123/)
 
