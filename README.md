@@ -1,6 +1,6 @@
 # Welcome to my Github page! 
-### My name is Dong Soo Ryu and I majored in computer science at Chungnam National University.
-### Currently undergoing 구름톤 트레이닝 organized by (주)구름.
+### Hello! My name is Dong Soo Ryu.
+
 
 ## Below is the information on...
 
