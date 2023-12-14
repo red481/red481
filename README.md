@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/visualstudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 
 ### Blog
-https://dev-n-life.tistory.com/
+<!--https://dev-n-life.tistory.com/-->
 
 ### Others
 <!--[![Anurag's GitHub stats](https://github-readme-stats-dongsoos-projects.vercel.app/api?username=red481&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=false)](https://github.com/red481/github-readme-stats)
