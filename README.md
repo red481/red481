@@ -19,6 +19,6 @@ GitLab, Confluence, Vue.js, Oracle, SpringBoot, Java 11 등
 현재 카카오뱅크 재예산 시스템 고도화 프로젝트 참여(2024.4.1 ~ )
 
 
-
+### ETC
 
 업무 외 연락은 otuu1234@gmail.com 으로 보내주시기 바랍니다!
