@@ -15,8 +15,6 @@ GitLab, Confluence, Vue.js, Oracle, SpringBoot, Java 11 등
 ### 경력사항
 로이솔루션 입사(2024.4.1 ~ ) 주임 연구원으로 근무 시작.
 
-현재 카카오뱅크 파견 근무 중(2024.4.1 ~ )
-
 ### ETC
 
 업무 외 연락은 otuu1234@gmail.com 으로 보내주시기 바랍니다!
