@@ -4,7 +4,7 @@ My name is Ryu Jiyoon(한글명 : 류지윤) (formerly Ryu Dongsoo).
 
 I have recently been studying web development, specifically Spring, a Java backend framework 
 
-and also the frontend framework React. 
+and also the frontend library React. 
 
 
 My last job mainly involved writing SQL queries in Oracle and developing frontend logic with Vue.js. 
