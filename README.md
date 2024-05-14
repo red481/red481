@@ -1,5 +1,4 @@
 
-# Greetings! 
 My name is Ryu Jiyoon(한글명 : 류지윤) (formerly Ryu Dongsoo). 
 
 I have recently been studying web development, specifically Spring, a Java backend framework 
